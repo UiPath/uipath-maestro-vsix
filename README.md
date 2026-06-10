@@ -25,7 +25,7 @@
 
 - **VS Code, Cursor, or another fork**
 - **Your UiPath Automation Cloud account**
-- **This `.vsix` preview file**
+- **The `.vsix` preview file** — download it from the [latest release](https://github.com/UiPath/flow-vsix-releases/releases/latest)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 1. Install the extension from the `.vsix`
 
-Install the file from this repo — works in any VS Code fork.
+Download the `.vsix` from the **[latest release](https://github.com/UiPath/flow-vsix-releases/releases/latest)** (all builds are listed under [Releases](https://github.com/UiPath/flow-vsix-releases/releases)) — works in any VS Code fork.
 
 Open the command palette (`Cmd/Ctrl+Shift+P`) → **Extensions: Install from VSIX…** → select the file.
 
