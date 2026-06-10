@@ -8,7 +8,7 @@
 | 🧩 **VS Code · Cursor · Windsurf** | + any VS Code fork |
 | 📦 **npm / npx** | CLI install |
 
-> ⚠️ **Confidential** — for Private Preview participants only. Maestro Flow is feature-flagged to your account and will not run from VS Code without matching access.
+> ⚠️ For Private Preview participants only. Maestro Flow is feature-flagged to your account and will not run from VS Code without matching access.
 
 ---
 
