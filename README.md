@@ -25,7 +25,7 @@
 
 - **VS Code, Cursor, or another fork**
 - **Your UiPath Automation Cloud account**
-- **The `.vsix` preview file** — download it from the [latest release](https://github.com/UiPath/flow-vsix-releases/releases/latest)
+- **The `.vsix` preview file** — download it from the [latest release](https://github.com/UiPath/uipath-maestro-vsix/releases/latest)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 1. Install the extension from the `.vsix`
 
-Download the `.vsix` from the **[latest release](https://github.com/UiPath/flow-vsix-releases/releases/latest)** (all builds are listed under [Releases](https://github.com/UiPath/flow-vsix-releases/releases)) — works in any VS Code fork.
+Download the `.vsix` from the **[latest release](https://github.com/UiPath/uipath-maestro-vsix/releases/latest)** (all builds are listed under [Releases](https://github.com/UiPath/uipath-maestro-vsix/releases)) — works in any VS Code fork.
 
 Open the command palette (`Cmd/Ctrl+Shift+P`) → **Extensions: Install from VSIX…** → select the file.
 
@@ -113,3 +113,11 @@ Use VS Code's terminal window or an extension and start prompting and reasoning 
 - **Auth errors?** Tokens expire hourly — re-run `uip login` and confirm your org/tenant.
 
 **Bugs or feedback?** Both the extension and the CLI for Maestro Flow are early releases and still evolving — expect rough edges. Please send feedback and improvement requests through the `/uipath-feedback` command, by asking Claude to send feedback, or through the insider portal. Your feedback shapes GA.
+
+---
+
+## License
+
+©2026 UiPath Copyright. All rights reserved.
+
+UiPath Maestro Flow is licensed under the Evaluation Agreement and ancillary policies available [here](https://www.uipath.com/legal/trust-and-security/legal-terms).
