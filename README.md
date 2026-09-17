@@ -1,6 +1,4 @@
-# UiPath Maestro Flow Extension — Public Preview
-
-> **Public Preview** · The UiPath Maestro Flow extension brings Flow building directly into your IDE. This extension plus the `uip` CLI let you build, debug, run, and deploy with **Claude, Codex, Copilot** (or others) without ever leaving VS Code or your favorite fork.
+# UiPath Maestro Flow Extension
 
 | | |
 |---|---|
